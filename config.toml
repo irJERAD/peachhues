@@ -1,5 +1,5 @@
 # default config
-baseurl = "http://peachhughes.jerad.xyz"
+baseurl = "https://peachhughes.jerad.xyz"
 languageCode = "en-us"
 title = "Parsa Hugo | Personal Blog Template"
 theme = "parsa-hugo"
