@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pastime on Parsa Hugo | Personal Blog Template</title>
+    <link>http://peachhughes.jerad.xyz/categories/pastime/</link>
+    <description>Recent content in Pastime on Parsa Hugo | Personal Blog Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="http://peachhughes.jerad.xyz/categories/pastime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paradise is where I go to sleep</title>
+      <link>http://peachhughes.jerad.xyz/blog/i-love-sleep/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>http://peachhughes.jerad.xyz/blog/i-love-sleep/</guid>
+      <description>“Sleep is the best meditation.”
+— Dalai Lama
+ There are few things in life I enjoy more than sleep.</description>
+    </item>
+    
+    <item>
+      <title>The Best restaurant is in YOUR kitchen!</title>
+      <link>http://peachhughes.jerad.xyz/blog/cooking-and-eating-at-home/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>http://peachhughes.jerad.xyz/blog/cooking-and-eating-at-home/</guid>
+      <description>cook at home for culture, health, and fun.
+ There is nothing better than a home cooked meal</description>
+    </item>
+    
+  </channel>
+</rss>
