@@ -1,7 +1,7 @@
 # default config
-baseurl = "https://peachhughes.jerad.xyz"
+baseurl = "https://peachhues.jerad.xyz"
 languageCode = "en-us"
-title = "Peach&Hughes | A fashion and design venue by Stephanie Acosta"
+title = "Luxury | A Bohemian Lifestyle by Stephanie Acosta"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
