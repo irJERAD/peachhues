@@ -1,7 +1,7 @@
 # default config
 baseurl = "https://peachhughes.jerad.xyz"
 languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+title = "Peach&Hughes | A fashion and design venue by Stephanie Acosta"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
